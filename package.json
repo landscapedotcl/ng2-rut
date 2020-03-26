@@ -64,6 +64,7 @@
     "zone.js": "^0.7.2"
   },
   "dependencies": {
+    "@angular-devkit/schematics": "^9.1.0",
     "rut-helpers": "^0.1.0"
   }
 }
